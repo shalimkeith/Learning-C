@@ -37,7 +37,7 @@ int main() {
     //String (0bjects that represents a sequence of text)
 
     std::string name = "Keith";
-    std::string food = "Biryani";
+    std::string food = "Biryaani";
     std::string address = "Sadddar";
     
     std::cout << "Hello " << name << '\n';
