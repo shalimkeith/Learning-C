@@ -28,7 +28,7 @@ int main() {
 
     bool student = true;
     bool power = true;
-    bool sale= false;
+    bool sale= true;
 
 
 
