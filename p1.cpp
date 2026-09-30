@@ -30,13 +30,19 @@ int main() {
     bool power = true;
     bool sale= false;
 
-    std::cout << power << std::endl;
 
-    return 0;
+
+
 
     //String (0bjects that represents a sequence of text)
 
-    std::string name = ""
+    std::string name = "Keith";
+    std::string food = "Biryani";
+    std::string address = "Saddar";
+    
+    std::cout << "Hello " << name << '\n';
+    std::cout << "You are " << age << " years old";
 
+    return 0;
 
 }
